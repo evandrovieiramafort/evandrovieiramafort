@@ -1,5 +1,5 @@
 ### E quem sou eu?
 🙋🏻‍♂️ 26 anos  
-👨🏻‍💻 Cursando o Bacharelado em Sistemas de Informação  
+👨🏻‍💻 Cursando o Bacharelado em Sistemas de Informação (pelo CEFET - Campus Friburgo)  
 🥰 **Apaixonado** por dados e estatística 📈  
 🎸 Além de aprendiz, também toco guitarra e baixo nas horas vagas  
