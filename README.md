@@ -1,4 +1,5 @@
 ### E quem sou eu?
-
-Prazer! Evandro Vieira Mafort, 26 anos, cursando atualmente o Bacharelado em  
-Sistemas de Informação pelo CEFET-RJ
+🙋🏻‍♂️ 26 anos
+👨🏻‍💻 Cursando o Bacharelado em Sistemas de Informação
+🥰 **Apaixonado** por dados e estatística 📈
+🎸 Além de aprendiz, também toco guitarra e baixo nas horas vagas
