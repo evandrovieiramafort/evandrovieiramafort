@@ -49,8 +49,35 @@
         <section>
             <h2>Onde me encontrar</h2>
             <div>
+                <a href="https://www.linkedin.com/in/evandrovieiramafort"><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+                <a href="https://medium.com/@Uaris.py"><img width="50" height="50" src="Medium_logo_Monogram.svg"></a>
                 <a href="https://web.dio.me/users/evandrovieira_mat"><img width="75" height="75" src="DIO logo.svg"></a>
             </div>
+        </section>
+        <section>
+            <h2>Portfólio e cursos</h2>
+            <p>🚧 <b>EM CONSTRUÇÃO</b> 🚧</p>
+        </section>
+        <details>
+        <summary>Alguns dos meus projetos</summary>
+             <table border="2">
+                <tr>
+                    <th>Link</th>
+                    <th>Descrição</th>
+                </tr>
+                <tr>
+                    <td><a href="https://evandrovieiramafort.github.io">Laboratório de Fundamentos da Web</a></td>
+                    <td>Repositório criado no "Github Pages" para as atividades da matéria "Fundamentos da WEB"</td>
+                </tr>
+                <tr>
+                    <td>Maria</td>
+                    <td>25</td>
+                </tr>
+            </table>
+         </details>
+        <details>
+        <summary>Alguns dos cursos que fiz</summary>
+        </details>
     </main>
 </body>
 </html>
