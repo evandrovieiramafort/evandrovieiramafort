@@ -46,6 +46,11 @@
                 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Logo Git" />
             </div>
         </section>
+        <section>
+            <h2>Onde me encontrar</h2>
+            <div>
+                <a href="https://web.dio.me/users/evandrovieira_mat"><img src="https://img.shields.io/badge/%22DIO%22-magenta"></a>
+            </div>
     </main>
 </body>
 </html>
