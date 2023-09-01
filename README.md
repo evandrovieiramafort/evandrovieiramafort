@@ -49,7 +49,7 @@
         <section>
             <h2>Onde me encontrar</h2>
             <div>
-                <a href="https://web.dio.me/users/evandrovieira_mat"><img src="https://img.shields.io/badge/%22DIO%22-magenta"></a>
+                <a href="https://web.dio.me/users/evandrovieira_mat"><img width="50" height="50" src="DIO logo.svg"></a>
             </div>
     </main>
 </body>
