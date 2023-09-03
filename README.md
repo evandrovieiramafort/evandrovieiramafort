@@ -64,14 +64,23 @@
                 <tr>
                     <th>Link</th>
                     <th>Descrição</th>
+                    <th>Linguagens, bibliotecas e ferramentas usadas</th>
                 </tr>
                 <tr>
                     <td><a href="https://evandrovieiramafort.github.io">Laboratório de Fundamentos da Web</a></td>
-                    <td>Repositório criado no "Github Pages" para as atividades da matéria "Fundamentos da WEB"</td>
+                    <td><b>Repositório criado no "Github Pages" para as atividades da matéria "Fundamentos da WEB</b>"</td>
+                    <td><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo HTML5" />
+                        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Logo CSS3" />
+                        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo JavaScript" />
+                        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Logo Git" /></td>
                 </tr>
                 <tr>
-                    <td>Maria</td>
-                    <td>25</td>
+                    <td><a href="https://github.com/evandrovieiramafort/projetos_bootcamp_ifood_dio">Desafios de código do bootcamp "Potência Tech powered by iFood | Ciência de Dados"</td>
+                    <td>Repositório feito para todos os desafios de código do bootcamp em questão, que é sediado pela <a href="web.dio.me">DIO</a></td>
+                    <td><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo HTML5" />
+                        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" />
+                        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Logo MySQL" />
+                        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Logo Git" /</td>
                 </tr>
             </table>
          </details>
