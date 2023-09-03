@@ -76,7 +76,7 @@
                 </tr>
                 <tr>
                     <td><a href="https://github.com/evandrovieiramafort/projetos_bootcamp_ifood_dio">Desafios de código do bootcamp "Potência Tech powered by iFood | Ciência de Dados"</td>
-                    <td>Repositório feito para todos os desafios de código do bootcamp em questão, que é sediado pela <a href="web.dio.me">DIO</a></td>
+                    <td><b>Repositório feito para todos os desafios de código do bootcamp em questão, que é sediado pela <a href="web.dio.me">DIO</a></b></td>
                     <td><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Logo HTML5" />
                         <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" />
                         <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Logo MySQL" />
