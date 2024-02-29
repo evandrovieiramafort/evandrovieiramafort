@@ -20,7 +20,7 @@
             <ul>
                 <li>🙋🏻‍♂️ 26 anos</li>
                 <li>👨🏻‍💻 Cursando o Bacharelado em Sistemas de Informação pelo <a href="http://www.cefet-rj.br/index.php/apresentacao">CEFET - Campus Friburgo</a></li>
-                <li>🤓Posteriormente pretendo ingressar no Mestrado em Ciência da Computação, também pelo CEFET-RJ</li>
+                <li>🤓Posteriormente pretendo ingressar no <a href="https://eic.cefet-rj.br/ppcic/">Mestrado em Ciência da Computação, também pelo CEFET-RJ</a></li>
                 <li>💜📊 Apaixonado por dados, estatística e programação</li>
                 <li>🎸 Além de aprendiz de dados, também toco guitarra e baixo nas horas vagas</li>
             </ul>
