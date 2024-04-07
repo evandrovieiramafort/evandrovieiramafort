@@ -88,7 +88,7 @@
                     <td><b>Repositório feito para os códigos e arquivos da EDA da Eleição Presidencial de 2022</td>
                     <td><img width="40" height="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Logo Power BI" />
                         <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" />
-                        <img width="40" height="40" src="https://icons8.com.br/icon/UECmBSgBOvPT/microsoft-excel-2019" alt="Logo Excel" />
+                        <img width="40" height="40" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="Logo Excel" />
             </table>
          </details>
         <details>
