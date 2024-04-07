@@ -86,7 +86,7 @@
                 </tr>
                     <td><a href="https://github.com/evandrovieiramafort/EDAeleicoes2022">EDA das Eleições de 2022</td>
                     <td><b>Repositório feito para os códigos e arquivos da EDA da Eleição Presidencial de 2022</td>
-                    <td><img width="40" height="40" src=https://icons8.com.br/icon/Ny0t2MYrJ70p/power-bi-2021 alt="Logo Power BI" />
+                    <td><img width="40" height="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Logo Power BI" />
                         <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" />
                         <img width="40" height="40" src="https://icons8.com.br/icon/UECmBSgBOvPT/microsoft-excel-2019" alt="Logo Excel" />
             </table>
