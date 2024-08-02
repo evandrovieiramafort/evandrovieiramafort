@@ -18,12 +18,12 @@
         <section>
             <h2>Algumas coisas sobre mim:</h2>
             <ul>
-                <li>🙋🏻‍♂️ 26 anos</li>
-                <li>👨🏻‍💻 Cursando o Bacharelado em Sistemas de Informação pelo <a href="http://www.cefet-rj.br/index.php/apresentacao">CEFET - Campus Friburgo</a></li>
+                <li>🙋🏻‍♂️ 27 anos.</li>
+                <li>👨🏻‍💻 Cursando o Bacharelado em Sistemas de Informação pelo <a href="http://www.cefet-rj.br/index.php/apresentacao">CEFET - Campus Friburgo.</a></li>
                 <li>🤓Pretendo seguir na área acadêmica, mas também possuo objetivos profissionais.</li>
-                <li>💜📊 Apaixonado por dados, estatística e programação</li>
-                <li>🎸 Além de aprendiz de dados, também toco guitarra e baixo nas horas vagas</li>
-                <li> Atualmente sou tanto:</li>
+                <li>💜📊 Apaixonado por dados, programação e tecnologias em geral.</li>
+                <li>🎸 Além de aprendiz de dados, também toco guitarra e baixo nas horas vagas.</li>
+                <li> Atualmente sou:</li>
                     <ul>
                         <li>Estagiário em desenvolvimento back-end na <a href="https://ntendencia.com.br">Nova Tendência</a></li>
                         <li>Bolsista de Iniciação Científica (PIBIC) pelo <a href="https://dippg.cefet-rj.br/index.php/pt/pibic">CEFET/RJ</a>, com projeto em Machine Learning.</li>
