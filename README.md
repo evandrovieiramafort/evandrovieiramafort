@@ -42,6 +42,7 @@
             <h3>Em frameworks:</h3>
             <div>
                 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastApi" />
+                <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" />
                 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" />
             </div>
             <h3>Em bancos de dados (SQL e NoSQL):</h3>
